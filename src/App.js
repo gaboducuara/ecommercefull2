@@ -23,7 +23,7 @@ function App() {
 			<footer>
 				<div className='copyright'>© Gabriel Mancilla Ducuara 2022</div>
 				<div className='social-network'>
-					<a href='https://www.linkedin.com/in/juan-manuel-blanco-vargas-646a46226/'>
+					<a href='https://www.linkedin.com/in/gabriel-mancilla-ducuara-37b337212/'>
 						<i className='fa-brands fa-linkedin-in'></i>
 					</a>
 					<a href='https://twitter.com/Gabriel17106111'>
